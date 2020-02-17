@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://dawood2003:orange99@devconnector-n0cx4.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://dawood2003:orange99@devconnector-n0cx4.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
